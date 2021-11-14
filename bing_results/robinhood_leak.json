@@ -1,0 +1,500 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Robinhood leak"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Robinhood+leak",
+    "totalEstimatedMatches": 2220000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Robinhood app accidentally leaks customer data to ...",
+        "url": "https://www.theregister.com/2021/11/09/robinhood_breach/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.theregister.com/2021/11/09/robinhood_breach",
+        "snippet": "Robinhood, Robinhood, had a data leak. Robinhood, Robinhood, infosec was weak. Simon Sharwood, APAC Editor Tue 9 Nov 2021 // 01:50 UTC . 27. 27. Copy. Investment app Robinhood has revealed an extortionist accessed its internal systems and siphoned off customer data after tricking a support desk worker. “Late in the evening of November 3 ...",
+        "dateLastCrawled": "2021-11-10T18:05:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Robinhood Data Breach Leaks Personal Details of 7 Million ...",
+        "url": "https://money.yahoo.com/robinhood-data-breach-leaks-personal-221603585.html",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://money.yahoo.com/robinhood-data-breach-leaks-personal-221603585.html",
+        "snippet": "The popular trading app Robinhood announced Monday that millions of its users had their personal information exposed in a data breach.. In a blog post, Robinhood explained that an “unauthorized third party” engineered the leak through its customer support systems. Users’ bank account information, Social Security numbers and other financial data does not appear to have been affected.",
+        "dateLastCrawled": "2021-11-10T06:39:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Robinhood reports security breach and user data leak - 9to5Mac",
+        "url": "https://9to5mac.com/2021/11/08/popular-trading-platform-robinhood-reports-security-breach-and-user-data-leak/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://9to5mac.com/2021/11/08/popular-trading-platform-robinhood-reports-security...",
+        "snippet": "Filipe Espósito. - Nov. 8th 2021 2:03 pm PT. @filipeesposito. Popular financial services company and trading platform Robinhood today reported a security breach in its database that led to leaked ...",
+        "dateLastCrawled": "2021-11-10T08:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Robinhood Data Breach Leaks Personal Details of 7 Million ...",
+        "url": "https://www.msn.com/en-us/news/technology/robinhood-data-breach-leaks-personal-details-of-7-million-users/ar-AAQsUaP",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.msn.com/en-us/news/technology/robinhood-data-breach-leaks-personal-details...",
+        "snippet": "Robinhood Data Breach Leaks Personal Details of 7 Million Users Julia Glum 1 day ago. Travis Scott Astroworld show: Survivors recall scenes of chaos at the concert. 10 things in tech you need to know.",
+        "dateLastCrawled": "2021-11-10T10:04:00.0000000Z",
+        "searchTags": [
+          {
+            "name": "search.interest",
+            "content": "\"News\"; news"
+          },
+          {
+            "name": "search.interest",
+            "content": "\"Technology\"; technology"
+          }
+        ],
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Robinhood breach leaks information of 7 million people | ZDNet",
+        "url": "https://www.zdnet.com/article/robinhood-suffers-from-breach-affecting-7-million-people/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.zdnet.com/article/robinhood-suffers-from-breach-affecting-7-million-people",
+        "snippet": "Robinhood breach leaks information of 7 million people. Names, email addresses and in some cases, the DOBs and zip codes, of Robinhood customers were exposed. Robinhood announced that it's popular ...",
+        "dateLastCrawled": "2021-11-09T21:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Robinhood Data Breach: Who's Affected and What Got Leaked ...",
+        "url": "https://money.com/robinhood-data-breach-whos-affected/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://money.com/robinhood-data-breach-whos-affected",
+        "snippet": "The popular trading app Robinhood announced Monday that millions of its users had their personal information exposed in a data breach.. In a blog post, Robinhood explained that an \"unauthorized third party\" engineered the leak through its customer support systems. Users' bank account information, Social Security numbers and other financial data does not appear to have been affected.",
+        "dateLastCrawled": "2021-11-09T08:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Robinhood Suffers Massive Data Breach; Leaks Personal Data ...",
+        "url": "https://beebom.com/robinhood-suffers-data-breach-leaks-personal-data-7-million-customers/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://beebom.com/robinhood-suffers-data-breach-leaks-personal-data-7-million-customers",
+        "snippet": "Robinhood shared a formal blog post to announce the data breach. In the post, the company wrote that it experienced a data security incident on the evening of 3rd November.An unauthorized attacker “socially engineered a customer support employee by phone,” and was able to access the company’s customer support systems.. This way, the attacker was able to acquire a list of email addresses ...",
+        "dateLastCrawled": "2021-11-09T19:37:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Robinhood Leaks the Data of 7 Million Users",
+        "url": "https://www.enigmasoftware.com/robinhood-leaks-data-7-million-users/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.enigmasoftware.com/robinhood-leaks-data-7-million-users",
+        "snippet": "Robinhood Leaks the Data of 7 Million Users. Robinhood, the trading platform that became wildly popular after it launched in 2015 due to its flagship feature - \"no commission\" trading, reported that information on a staggering 7 million of its users has been leaked as the result of a data breach. The 7 million Robinhood customers affected by ...",
+        "dateLastCrawled": "2021-11-10T08:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Robinhood Crypto Wallet May Be Hot, But Data Leak Still ...",
+        "url": "https://www.thestreet.com/investing/robinhood-drops-on-data-breach-money-transfer-issues",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.thestreet.com/investing/robinhood-drops-on-data-breach-money-transfer-issues",
+        "snippet": "Robinhood Crypto Wallet May Be Hot, But Data Leak Still Drawing Fire Almost two million people are waiting to use Robinhood's crypto wallet once it's launched, according to COO Christine Hall. Author:",
+        "dateLastCrawled": "2021-11-10T06:03:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Robinhood leaked user data - World Stock Market",
+        "url": "https://www.worldstockmarket.net/robinhood-leaked-user-data/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.worldstockmarket.net/robinhood-leaked-user-data",
+        "snippet": "Online broker Robinhood has admitted the leak of personal data of users. The incident took place on November 3, the company said in a blog post. “A third party has unauthorized access to a limited amount of personal information on some of our customers,” the statement said. Based on the…",
+        "dateLastCrawled": "2021-11-09T08:18:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "news": {
+    "id": "https://api.bing.microsoft.com/api/v7/#News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=Robinhood+Leak",
+    "value": [
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "Yahoo Money"
+          }
+        ],
+        "name": "Robinhood Data Breach Leaks Personal Details of 7 Million Users",
+        "url": "https://money.yahoo.com/robinhood-data-breach-leaks-personal-221603585.html",
+        "image": {
+          "contentUrl": "https://s.yimg.com/ny/api/res/1.2/oEi9xV.KEQFggHTrqFzEoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/NUauGplS5eAiowqvlL7nKg--~B/aD0xODIxO3c9MjczMTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/money_articles_yahoo_money_641/0e8eea7c9a15f45043b736e7f34f29f0",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.oFsm9FtqopHLsf-4lbw7iy&pid=News",
+            "width": 700,
+            "height": 466
+          }
+        },
+        "description": "The popular trading app Robinhood announced Monday that millions of its users had their personal information exposed in a data breach. In a blog post, Robinhood explained that an “unauthorized third party” engineered the leak through its customer support systems.",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/bfb3f5d8-ffb9-ee44-589e-cde998701d95",
+            "name": "Data"
+          },
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/8363ca2b-2d91-f331-8f32-a766d0f7dd9f",
+            "name": "Robin Hood"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "Yahoo Money"
+          }
+        ],
+        "datePublished": "2021-11-08T22:16:00.0000000Z",
+        "category": "ScienceAndTechnology"
+      },
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "TheStreet.com on MSN.com"
+          }
+        ],
+        "name": "Robinhood Crypto Wallet May Be Hot, But Data Leak Still Drawing Fire",
+        "url": "https://www.msn.com/en-us/finance/companies/robinhood-crypto-wallet-may-be-hot-but-data-leak-still-drawing-fire/ar-AAQvAEu",
+        "image": {
+          "contentUrl": "https://www.thestreet.com/.image/t_share/MTgyOTM5MTExOTYxNjY2OTEy/robinhood.jpg",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.Zerc0EoMUsCN6304v2Zi_C&pid=News",
+            "width": 700,
+            "height": 393
+          }
+        },
+        "description": "Almost two million people are waiting to use Robinhood's crypto wallet once it's launched, says COO Christine Hall.",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/bfb3f5d8-ffb9-ee44-589e-cde998701d95",
+            "name": "Data"
+          },
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/8363ca2b-2d91-f331-8f32-a766d0f7dd9f",
+            "name": "Robin Hood"
+          }
+        ],
+        "mentions": [
+          {
+            "name": "Data"
+          },
+          {
+            "name": "Robin Hood"
+          },
+          {
+            "name": "TheStreet.com"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "TheStreet.com on MSN.com",
+            "image": {
+              "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ODF.dsVvdYEiGuqZDGlCaqu-ZQ&pid=news"
+              }
+            }
+          }
+        ],
+        "datePublished": "2021-11-09T20:21:00.0000000Z",
+        "category": "ScienceAndTechnology"
+      },
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "CNET on MSN.com"
+          }
+        ],
+        "name": "Robinhood data breach is bad, but we've seen much worse",
+        "url": "https://www.msn.com/en-us/news/technology/robinhood-data-breach-is-bad-but-weve-seen-much-worse/ar-BB14jBVP",
+        "image": {
+          "contentUrl": "https://www.cnet.com/a/img/SFUI0A4D72gIaLJK_Iw_9ggX6vM=/1200x630/2021/04/21/2ecb4916-45de-4f98-a05a-0d53896fca95/gettyimages-685007437.jpg",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.ZeBuSljYmsentnyR7g9tIC&pid=News",
+            "width": 700,
+            "height": 367
+          }
+        },
+        "description": "Here's our roundup of some of the biggest data blunders in recent history. No institution is too big to fail. It seems like there's a new data breach in the news every couple of weeks. The latest big security hack came from stock trading app Robinhood,",
+        "mentions": [
+          {
+            "name": "Data breach"
+          },
+          {
+            "name": "Robin Hood"
+          },
+          {
+            "name": "CNET"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "CNET on MSN.com",
+            "image": {
+              "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ODF.vS3pKUrPWgIKkQBHtUkEPQ&pid=news"
+              }
+            }
+          }
+        ],
+        "datePublished": "2021-11-12T11:40:03.0000000Z",
+        "video": {
+          "name": "Capital One data breach: Here's what to do",
+          "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/b240aa08-92d7-4fbe-b025-e6a7aebbfc26/adea7c89-a152-4025-85ed-cdef2ae8_650.mp4",
+          "thumbnail": {
+            "width": 640,
+            "height": 360
+          }
+        },
+        "category": "ScienceAndTechnology"
+      },
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "TechRadar on MSN.com"
+          }
+        ],
+        "name": "Hackers accuse Robinhood of concealing theft of ID cards",
+        "url": "https://www.msn.com/en-us/news/technology/hackers-accuse-robinhood-of-concealing-theft-of-id-cards/ar-AAQDg5W",
+        "description": "Cybersecurity experts monitoring the dark web report that hackers who stole the personal data of millions of Robinhood customers also accuse the platform of lying and intentionally omitting the fact that the attack had exposed the ID cards of some members as well.",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/26200fef-11e7-ca94-f6c9-12b0d62b0806",
+            "name": "Robinhood, Saskatchewan"
+          }
+        ],
+        "mentions": [
+          {
+            "name": "Robinhood, Saskatchewan"
+          },
+          {
+            "name": "TechRadar"
+          },
+          {
+            "name": "Identity document"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "TechRadar on MSN.com",
+            "image": {
+              "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ODF.HUwxplx_rx0g5pzCy5_Wwg&pid=news"
+              }
+            }
+          }
+        ],
+        "datePublished": "2021-11-12T14:20:13.0000000Z",
+        "category": "ScienceAndTechnology"
+      },
+      {
+        "contractualRules": [
+          {
+            "_type": "ContractualRules/TextAttribution",
+            "text": "9to5Mac"
+          }
+        ],
+        "name": "Popular trading platform Robinhood reports security breach and user data leak",
+        "url": "https://9to5mac.com/2021/11/08/popular-trading-platform-robinhood-reports-security-breach-and-user-data-leak/",
+        "image": {
+          "contentUrl": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/01/Robinhood-App.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "thumbnail": {
+            "contentUrl": "https://www.bing.com/th?id=OVFT.Wfph_kaS4AUk2VCzVM_Z7S&pid=News",
+            "width": 700,
+            "height": 366
+          }
+        },
+        "description": "Popular financial services company and trading platform Robinhood today reported a security breach in its database that led to leaked user data. According to the company, an “unauthorized third party” gained access to personal information of its customers earlier this month.",
+        "about": [
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/9aa1a3a4-ba73-ea52-d6bf-e5578afd68a9",
+            "name": "Security"
+          },
+          {
+            "readLink": "https://api.bing.microsoft.com/api/v7/entities/eb8f2f0a-522b-1b34-903b-15508e1a39a0",
+            "name": "Data breach"
+          }
+        ],
+        "provider": [
+          {
+            "_type": "Organization",
+            "name": "9to5Mac",
+            "image": {
+              "thumbnail": {
+                "contentUrl": "https://www.bing.com/th?id=ODF.je8Klcy9ubQRbeUUjYnX9w&pid=news"
+              }
+            }
+          }
+        ],
+        "datePublished": "2021-11-08T22:03:00.0000000Z",
+        "category": "ScienceAndTechnology"
+      }
+    ]
+  },
+  "relatedSearches": {
+    "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches",
+    "value": [
+      {
+        "text": "robin hood accounts stolen",
+        "displayText": "robin hood accounts stolen",
+        "webSearchUrl": "https://www.bing.com/search?q=robin+hood+accounts+stolen"
+      },
+      {
+        "text": "robinhood data breach",
+        "displayText": "robinhood data breach",
+        "webSearchUrl": "https://www.bing.com/search?q=robinhood+data+breach"
+      },
+      {
+        "text": "robinhood security breach",
+        "displayText": "robinhood security breach",
+        "webSearchUrl": "https://www.bing.com/search?q=robinhood+security+breach"
+      },
+      {
+        "text": "has robin hood been hacked",
+        "displayText": "has robin hood been hacked",
+        "webSearchUrl": "https://www.bing.com/search?q=has+robin+hood+been+hacked"
+      },
+      {
+        "text": "robinhood hack",
+        "displayText": "robinhood hack",
+        "webSearchUrl": "https://www.bing.com/search?q=robinhood+hack"
+      },
+      {
+        "text": "robinhood is in trouble",
+        "displayText": "robinhood is in trouble",
+        "webSearchUrl": "https://www.bing.com/search?q=robinhood+is+in+trouble"
+      },
+      {
+        "text": "robinhood breach",
+        "displayText": "robinhood breach",
+        "webSearchUrl": "https://www.bing.com/search?q=robinhood+breach"
+      },
+      {
+        "text": "robinhood hacked 2020",
+        "displayText": "robinhood hacked 2020",
+        "webSearchUrl": "https://www.bing.com/search?q=robinhood+hacked+2020"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "News",
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#News"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        }
+      ]
+    },
+    "sidebar": {
+      "items": [
+        {
+          "answerType": "RelatedSearches",
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches"
+          }
+        }
+      ]
+    }
+  }
+}

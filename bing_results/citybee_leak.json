@@ -1,0 +1,200 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Citybee leak"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Citybee+leak",
+    "totalEstimatedMatches": 25100,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "CityBee.LT Database - Leaked, Download! | RaidForums",
+        "url": "https://raidforums.com/Thread-CityBee-LT-Database-Leaked-Download",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://raidforums.com/Thread-CityBee-LT-Database-Leaked-Download",
+        "snippet": "This download consists of 1 .CSV file, file syntax is listed below and keep in mind the passwords are stored as unsalted md5 hashes. The .7z File's MD5 Hash is ...",
+        "dateLastCrawled": "2021-11-09T17:13:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "110,000+ user records from car-sharing service CityBee ...",
+        "url": "https://cybernews.com/security/110000-user-records-from-car-sharing-service-citybee-leaked-and-sold-on-hacker-forum/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.d1SoHPQPxP2aFdUq6bLDkAHaDt&pid=Api",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://cybernews.com/security/110000-user-records-from-car-sharing-service-citybee...",
+        "snippet": "The leak could put 110,000+ Lithuanian CityBee users at risk of identity theft and credential stuffing attacks. A database that belongs to CityBee, a car sharing service that operates in the Baltic states and Poland, has appeared on a popular hacker forum.",
+        "dateLastCrawled": "2021-10-26T14:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Hacker who leaked CityBee user data tells media cyber ...",
+        "url": "https://www.lrt.lt/en/news-in-english/19/1346403/hacker-who-leaked-citybee-user-data-tells-media-cyber-security-was-poor",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.0SWHa2z68VC2ZIU6nXEkIgHaE7&pid=Api",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.lrt.lt/en/news-in-english/19/1346403/hacker-who-leaked-citybee-user-data...",
+        "snippet": "The news about the data leak broke on Monday night. CityBee said data of 110,000 clients had been leaked, including emails, phone numbers, personal codes, and enciphered passwords. Lithuania's Criminal Police Bureau has already launched an investigation into data theft. Those responsible are facing a fine or up to four years in prison.",
+        "dateLastCrawled": "2021-10-26T05:00:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Behind the scenes of CityBee customer data leak",
+        "url": "https://kernal.eu/posts/citybee-leak/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://kernal.eu/posts/citybee-leak",
+        "snippet": "Behind the scenes of CityBee customer data leak Introduction. All of this is obviously for educational and informative purpose. And I do not support any sort of crime either. All of the information below comes from the researcher himself from his interview and some of my own tests obviously. :D.",
+        "dateLastCrawled": "2021-11-05T06:31:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Car-sharing firm CityBee data breach - Database leaked online",
+        "url": "https://www.hackread.com/citybee-database-login-credentials-leaked-online/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.hackread.com/citybee-database-login-credentials-leaked-online",
+        "snippet": "CityBee, a prominent Lithuania-based car-sharing platform has suffered a data breach in which personal data including login credentials of its registered customers have been leaked on a prominent hacker forum. It is worth noting that CityBee is quite a thing in Lithuania. The company rents cars, scooters, bicycles, and even trucks to its customers.",
+        "dateLastCrawled": "2021-11-02T03:11:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Thousands of CityBee users have their personal data leaked ...",
+        "url": "https://www.euronews.com/2021/02/17/thousands-of-citybee-users-have-their-personal-data-leaked-online",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.euronews.com/2021/02/17/thousands-of-citybee-users-have-their-personal...",
+        "snippet": "The country's data protection watchdog has also launched its own investigation into the leak and CityBee's data protection policies. \"Currently, all the institutions involved in the incident are ...",
+        "dateLastCrawled": "2021-10-27T16:41:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "CityBee leak possibly just ‘tip of the iceberg’, police ...",
+        "url": "https://www.lrt.lt/en/news-in-english/19/1351450/citybee-leak-possibly-just-tip-of-the-iceberg-police-say",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.lrt.lt/en/news-in-english/19/1351450/citybee-leak-possibly-just-tip-of-the...",
+        "snippet": "CityBee leak possibly just ‘tip of the iceberg’, police say. The leaking of 110,000 users' data from a car hire service could be just the tip of the iceberg, Lithuanian police say as they are investigating two more recent data thefts. CityBee reported last week that the three-year-old user database, which included users' names, contact ...",
+        "dateLastCrawled": "2021-10-13T05:51:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Citybee hacked, database leaked. | I'm On IT",
+        "url": "https://blog.mindaugas.cf/2021/02/16/citybee-hacked-database-leaked/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://blog.mindaugas.cf/2021/02/16/citybee-hacked-database-leaked",
+        "snippet": "Evening 2021.02.15, Facebook groups started alerting about the leaked Citybee database (a database dump was publicly available). Exposing user information, like: name, surname, email addresses, passwords, government id number. Potentially credit / debit card information was also reportedly exposed. The following is the screenshot of database ...",
+        "dateLastCrawled": "2021-10-06T02:16:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Hacker: I posted everything I have, Citybee data ...",
+        "url": "https://www.delfi.lt/en/business/hacker-i-posted-everything-i-have-citybee-data-protection-was-poor.d?id=86499949",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.delfi.lt/en/business/hacker-i-posted-everything-i-have-citybee-data...",
+        "snippet": "The news about the data leak broke on Monday night. CityBee says data of 110,000 clients leaked, including emails, phone numbers, personal codes and enciphered passwords. Lithuania's Criminal ...",
+        "dateLastCrawled": "2021-11-04T09:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Citybee leak&#39;as: the beginning of the end ar dar ...",
+        "url": "https://www.linkedin.com/pulse/citybee-leakas-beginning-end-ar-dar-vienas-lauktas-savicianskas",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.linkedin.com/pulse/citybee-leakas-beginning-end-ar-dar-vienas-lauktas...",
+        "snippet": "Citybee leak'as: the beginning of the end ar dar vienas lauktas fail'as? Published on February 16, 2021 February 16, 2021 • 78 Likes • 21 Comments",
+        "dateLastCrawled": "2021-03-17T13:36:00.0000000Z",
+        "language": "lt",
+        "isNavigational": false
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        }
+      ]
+    }
+  }
+}

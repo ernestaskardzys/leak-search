@@ -1,0 +1,601 @@
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Twitch leak"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Twitch+leak",
+    "totalEstimatedMatches": 9130000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "Twitch source code, creator earnings exposed in 125GB leak ...",
+        "url": "https://arstechnica.com/information-technology/2021/10/twitch-admits-to-major-leak-exposing-source-code-creator-earnings/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://arstechnica.com/information-technology/2021/10/twitch-admits-to-major-leak...",
+        "snippet": "Twitch leak suggests major response to streaming site’s “hate mob” issues The hack puts more bad news on Twitch's plate and follows a recent and long-awaited public response to hate raid issues.",
+        "dateLastCrawled": "2021-11-10T15:23:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "Full list of all Twitch payouts (Twitch leaks) - Dot Esports",
+        "url": "https://dotesports.com/streaming/news/full-list-of-all-twitch-payouts-twitch-leaks",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://dotesports.com/streaming/news/full-list-of-all-twitch-payouts-twitch-leak",
+        "snippet": "The Twitch payout leaks only include money from subscriptions, bit donations, and advertisement revenue. The figures do not include any personal sponsorships or direct donations a streamer might ...",
+        "dateLastCrawled": "2021-11-09T10:26:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Twitch Leak: Company Issues Statement After Source Code ...",
+        "url": "https://www.msn.com/en-us/news/technology/twitch-leak-company-issues-statement-after-source-code-and-creator-payouts-exposed/ar-AAPeqne",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.msn.com/en-us/news/technology/twitch-leak-company-issues-statement-after...",
+        "snippet": "Twitch Leak: Company Issues Statement After Source Code and Creator Payouts Exposed. Accused war criminal's foundation forced to refund MAGA donors angered by anti-Trump posts. Biden admin spars ...",
+        "dateLastCrawled": "2021-11-04T22:39:00.0000000Z",
+        "searchTags": [
+          {
+            "name": "search.interest",
+            "content": "\"News\"; news"
+          },
+          {
+            "name": "search.interest",
+            "content": "\"Entertainment\"; entertainment"
+          },
+          {
+            "name": "search.interest",
+            "content": "\"Gaming\"; gaming"
+          }
+        ],
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "Twitch hacked as creator payments, source code leaked: report",
+        "url": "https://nypost.com/2021/10/06/twitch-hacked-as-creator-payments-source-code-leaked-report/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://nypost.com/2021/10/06/twitch-hacked-as-creator-payments-source-code-leaked-report",
+        "snippet": "The reported leak also included the source code of Amazon’s mobile, desktop and console apps — as well as information on Twitch’s internal security tools.",
+        "dateLastCrawled": "2021-11-10T05:04:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "Twitch acknowledges massive breach that exposed the entire ...",
+        "url": "https://www.msn.com/en-us/entertainment/gaming/massive-reported-twitch-leak-means-you-should-probably-change-your-password/ar-AAPbZ4I",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.msn.com/en-us/entertainment/gaming/massive-reported-twitch-leak-means-you...",
+        "snippet": "— Twitch (@Twitch) October 6, 2021. Original post: Things could be about to get real messy for Twitch. The Amazon-owned streaming platform is the target of an alleged hack, leak, whatever you ...",
+        "dateLastCrawled": "2021-11-04T23:47:00.0000000Z",
+        "searchTags": [
+          {
+            "name": "search.interest",
+            "content": "\"Gaming\"; gaming"
+          },
+          {
+            "name": "search.interest",
+            "content": "\"News\"; news"
+          },
+          {
+            "name": "search.interest",
+            "content": "\"Technology\"; technology"
+          },
+          {
+            "name": "search.interest",
+            "content": "\"Entertainment\"; entertainment"
+          }
+        ],
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "Twitch suffers massive data leak that exposes how much ...",
+        "url": "https://mashable.com/article/twitch-data-breach-leak",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://mashable.com/article/twitch-data-breach-leak",
+        "snippet": "Twitch suffers massive data leak that exposes how much streamers make and its source code. Twitch has suffered a huge data breach. On Wednesday, an anonymous 4chan user shared a 135GB torrent link ...",
+        "dateLastCrawled": "2021-11-09T04:19:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Twitch Leak: Massive Trove Of Data Released",
+        "url": "https://www.dailydot.com/debug/twitch-leak-data/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.dailydot.com/debug/twitch-leak-data",
+        "snippet": "Twitch Leak: Streaming giant Twitch confirms that its data was breached after a large torrent from the company was posted on 4chan. 4chan poster claims leak includes Twitch's source code and top ...",
+        "dateLastCrawled": "2021-11-09T15:06:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Twitch leaks - sizeof(cat)",
+        "url": "https://sizeof.cat/post/twitch-leaks/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://sizeof.cat/post/twitch-leaks",
+        "snippet": "We bring to you today an extremely poggers leak: Twitch is an American video live streaming service that focuses on video game live streaming, including broadcasts of esports competitions, operated by Twitch Interactive, a subsidiary of Amazon.com, Inc. Their community is also a disgusting toxic cesspool, so to foster more disruption and ...",
+        "dateLastCrawled": "2021-11-10T19:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "Twitch Data Leak | 06-10-2021",
+        "url": "https://www.twitchleak.eu/",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.twitchleak.eu",
+        "snippet": "Twitch Data Leak | 06-10-2021. ATTENTION! This website have NOTHING to do with the twitch data leak of 06/10/2021. We only collect data already available to everyone on the web. This website is not involved in any kind of commercial activities, is just for fun . Thanks.",
+        "dateLastCrawled": "2021-11-10T06:21:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Dream, TommyInnit, Quackity, GeorgeNotFound, and more ...",
+        "url": "https://www.sportskeeda.com/minecraft/news-dream-tommyinnit-quackity-georgenotfound-minecraft-streamers-alleged-earnings-revealed-unconfirmed-twitch-leak",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.sportskeeda.com/minecraft/news-dream-tommyinnit-quackity-georgenotfound...",
+        "snippet": "As stated on the thread, the reason behind this leak is to \"foster more disruption and competition in the online video streaming space\", as the hacker believes Twitch is a \"disgusting toxic cesspool\".",
+        "dateLastCrawled": "2021-11-10T02:24:00.0000000Z",
+        "language": "en",
+        "isNavigational": false
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "relatedSearches": {
+    "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches",
+    "value": [
+      {
+        "text": "faith twitch onlyfans leaks",
+        "displayText": "faith twitch onlyfans leaks",
+        "webSearchUrl": "https://www.bing.com/search?q=faith+twitch+onlyfans+leaks"
+      },
+      {
+        "text": "twitch streamers only fans leaked",
+        "displayText": "twitch streamers only fans leaked",
+        "webSearchUrl": "https://www.bing.com/search?q=twitch+streamers+only+fans+leaked"
+      },
+      {
+        "text": "alinity divine only fans leak",
+        "displayText": "alinity divine only fans leak",
+        "webSearchUrl": "https://www.bing.com/search?q=alinity+divine+only+fans+leak"
+      },
+      {
+        "text": "curvyllama fanhouse leaks",
+        "displayText": "curvyllama fanhouse leaks",
+        "webSearchUrl": "https://www.bing.com/search?q=curvyllama+fanhouse+leaks"
+      },
+      {
+        "text": "msteamkk fanhouse leak",
+        "displayText": "msteamkk fanhouse leak",
+        "webSearchUrl": "https://www.bing.com/search?q=msteamkk+fanhouse+leak"
+      },
+      {
+        "text": "4conner leaked logs",
+        "displayText": "4conner leaked logs",
+        "webSearchUrl": "https://www.bing.com/search?q=4conner+leaked+logs"
+      },
+      {
+        "text": "mizkif leaked logs",
+        "displayText": "mizkif leaked logs",
+        "webSearchUrl": "https://www.bing.com/search?q=mizkif+leaked+logs"
+      },
+      {
+        "text": "twitch source code leaked",
+        "displayText": "twitch source code leaked",
+        "webSearchUrl": "https://www.bing.com/search?q=twitch+source+code+leaked"
+      }
+    ]
+  },
+  "videos": {
+    "id": "https://api.bing.microsoft.com/api/v7/#Videos",
+    "readLink": "https://api.bing.microsoft.com/api/v7/videos/search?q=twitch+leak",
+    "webSearchUrl": "https://www.bing.com/videos/search?q=twitch+leak",
+    "isFamilyFriendly": true,
+    "value": [
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=6131065F51A33002502A6131065F51A33002502A",
+        "name": "Asmongold on the Twitch Leak (Streamers Income Revealed)",
+        "description": "Asmongold comments and reacts to the massive Twitch Leak, where the entire website including its source code, Streamers payouts, user passwords and much more has been made public. A fair bit of drama ensued after users discovered how much money streamers make on Twitch. Enjoy this Asmongold discussion about Twitch databases getting hacked in ...",
+        "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.oeSwszESahT0cM2nrkoF7QEsDh&pid=Api",
+        "datePublished": "2021-10-06T21:38:06.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=guZxrZS3jBE",
+        "hostPageUrl": "https://www.youtube.com/watch?v=guZxrZS3jBE",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=guZxrZS3jBE",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT18M12S",
+        "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.KlACMKNRXwYxYQ_1635402403&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/guZxrZS3jBE?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 927699,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=E5C19EC02834CBFCFD47E5C19EC02834CBFCFD47",
+        "name": "4Chan Hacker Explains Why He Leaked Twitch Streamers Pay And Source Code",
+        "description": "4Chan hacker takes credit for leaking Twitch streamers pay including xQc, Mizkif, Pokimane, Hasanabi, Destiny, Ludwig and more... Date: 6 Oct, 2021 Follow Destiny b :STREAM - http://www.destiny.gg/bigscreen b :DISCORD - https://discordapp.com/invite/destiny b :REDDIT - https://www.reddit.com/r/Destiny b :INSTAGRAM - https://www.instagram.com ...",
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.H6GQK6Tr_z_QmtIuQK_-yAEsDh&pid=Api",
+        "datePublished": "2021-10-07T14:59:15.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=CiZerSJic4A",
+        "hostPageUrl": "https://www.youtube.com/watch?v=CiZerSJic4A",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=CiZerSJic4A",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT18M58S",
+        "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.R_38yzQowJ7B5Q_1635376459&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/CiZerSJic4A?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 190089,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=3A9B9DA609F4B1B70C1D3A9B9DA609F4B1B70C1D",
+        "name": "TWITCH LEAKS HOW MUCH MONEY TOP STREAMERS MAKE!",
+        "description": "b : GFUEL --b : Use Code 'LUCKYY' to save on Gfuel! https://gfuel.com/ b : PATREON --b : https://www.patreon.com/LUCKYY10P b : FREE $4.99 TWITCH SUB WITH TWITCH PRIME --b : https://twitch.amazon.com/prime b : TWITCH --b : http://www.twitch.tv/LUCKYY10P b : MAIN YOUTUBE CHANNEL --b : https://www.youtube.com/LUCKYY10P b : 2ND YOUTUBE CHANNEL --b ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.flf0Hlj1o_z8kcJ9D2HOCQEsDh&pid=Api",
+        "datePublished": "2021-10-06T18:48:20.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=Bj8ZTf4rBlY",
+        "hostPageUrl": "https://www.youtube.com/watch?v=Bj8ZTf4rBlY",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Bj8ZTf4rBlY",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT3M44S",
+        "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.HQy3sfQJpp2bOg_1635796751&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/Bj8ZTf4rBlY?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 55108,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=AC0BB37D6CE2C15E96B9AC0BB37D6CE2C15E96B9",
+        "name": "Twitch leaks secrets of top streamers",
+        "description": "Go to http://hellofresh.com/roundup14 and use code roundup14 for up to 14 free meals including free shipping! Thanks to ExpressVPN for sponsoring our channel http://expressvpn.com/inside Twitch was hacked and has now experienced a huge leak which was posted on 4chan which included source code, secure information, and the thing everyone has been ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.lg-J9ymnWtW8GJBdDRRO-AEsDh&pid=Api",
+        "datePublished": "2021-10-09T16:30:02.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=QrrM_87wOjM",
+        "hostPageUrl": "https://www.youtube.com/watch?v=QrrM_87wOjM",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=QrrM_87wOjM",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT18M1S",
+        "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.uZZeweJsfbMLrA&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/QrrM_87wOjM?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 32388,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=6E5F9F1C63D112D3F48F6E5F9F1C63D112D3F48F",
+        "name": "Twitch Hacker Leaks Streamers Earnings!",
+        "description": "In this video I talk about how a twitch hacker just leaked the earnings of the most popular Twitch streamers! That's right, your favourite streamers such as TommyInnit, Xqc, Pokimane, Ranboo, Tubbo and more all just had their earnings leaked! This Twitch hacker also leaked that Twitch has a project in the works that would be a competitor for ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.ZAeIbBlF7F44CVdPgqi9FwEsDh&pid=Api",
+        "datePublished": "2021-10-06T20:15:24.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=Ca-JR1wAtHY",
+        "hostPageUrl": "https://www.youtube.com/watch?v=Ca-JR1wAtHY",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Ca-JR1wAtHY",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT1M10S",
+        "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.j_TTEtFjHJ9fbg_1635336152&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/Ca-JR1wAtHY?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 7921,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=20935735A0338FE748EE20935735A0338FE748EE",
+        "name": "MASSIVE Twitch Leak Shows STREAMER PAYOUT",
+        "description": "A potential Twitch leak or data breach has been posted online, allegedly revealing what all the top streamers like xQc, Summit1g, and Nickmercs were making on the platform. The leaked information came in 2 waves, the first of which included some outlandishly high earning numbers for Twitch streamers, which a lot of big streamers like Asmongold ...",
+        "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.CsROfzt6tAP0rO8p_rpQcQEsDh&pid=Api",
+        "datePublished": "2021-10-06T14:46:51.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=j3jARpN2FWU",
+        "hostPageUrl": "https://www.youtube.com/watch?v=j3jARpN2FWU",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=j3jARpN2FWU",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT6M37S",
+        "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.7kjnjzOgNVeTIA&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/j3jARpN2FWU?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 192051,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=6071A8965EDD1F245A066071A8965EDD1F245A06",
+        "name": "STREAMERS REACTING TO \"THE BIGGEST TWITCH LEAK\" 😳",
+        "description": "Twitch has just had a major leak of a lot of stuff including their monthly payouts to streamers. It's not yet clear how much has been compromised, so if you have a Twitch account, I would highly recommend that you change your password, enable two-factor authentication.",
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.4264FGOsEvcFKgfDqMc66wEsDh&pid=Api",
+        "datePublished": "2021-10-06T20:07:45.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=FihMRGWSTXg",
+        "hostPageUrl": "https://www.youtube.com/watch?v=FihMRGWSTXg",
+        "encodingFormat": "",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=FihMRGWSTXg",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT8M7S",
+        "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.BlokH91elqhxYA_1635811165&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/FihMRGWSTXg?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 25063,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=A4CE0EF77217D3F4BA8EA4CE0EF77217D3F4BA8E",
+        "name": "Huge Twitch Leak",
+        "description": "This is the greatest streamer income release of All Time I'm live every day https://www.twitch.tv/moistcr1tikal",
+        "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.lbpAMam8_qegH5M0ervotwEsDh&pid=Api",
+        "datePublished": "2021-10-07T17:00:20.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=fbYA3-GhZ70",
+        "hostPageUrl": "https://www.youtube.com/watch?v=fbYA3-GhZ70",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=fbYA3-GhZ70",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT14M56S",
+        "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.jrr00xdy9w7OpA&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/fbYA3-GhZ70?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 2174363,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=20E57DE0207BC1179E8220E57DE0207BC1179E82",
+        "name": "How Much Twitch Streamers Make? | Leaked Twitch Payouts of xQc, Amouranth & More | Famous News",
+        "description": "How Much Twitch Streamers Make? | Leaked Twitch Payouts of xQc, Amouranth & More | Famous News SUBSCRIBE: https://www.youtube.com/user/MrMccruddenmichael?sub_confirmation=1 Get 15% off our MERCH at https://permanentvacationbrand.com/ Using The Promo Code 'FAMOUS' Full leaked Twitch payout list: https://docs.google.com/spreadsheets/d/1FUyxKvAO ...",
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.55CUGh7-PMIEXY98kChjHQEsDh&pid=Api",
+        "datePublished": "2021-10-06T18:15:04.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=yXjju5Z6sYI",
+        "hostPageUrl": "https://www.youtube.com/watch?v=yXjju5Z6sYI",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=yXjju5Z6sYI",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT8M3S",
+        "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.gp4XwXsg4H3lIA&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/yXjju5Z6sYI?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 14164,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      },
+      {
+        "webSearchUrl": "https://www.bing.com/videos/search?q=twitch%20leak&view=detail&mid=E9670830855644670F49E9670830855644670F49",
+        "name": "☣️ Twitch Hack & Leak - EXPLAINED (HINT - it's HUGE!)",
+        "description": "BREAKING: Twitch has been hacked and there was a significant data leak today on Wednesday 6th October 2021. The data breach of Twitch is extensive and wide-ranging, and there are a number of highly newsworthy things that have been allegedly revealed in the Twitch leak. Many of these have been independently verified by a wide range of news ...",
+        "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.Iy4aSgKNFMIDyJu7kf5wrAEsDh&pid=Api",
+        "datePublished": "2021-10-06T15:21:01.0000000",
+        "publisher": [
+          {
+            "name": "YouTube"
+          }
+        ],
+        "isAccessibleForFree": true,
+        "contentUrl": "https://www.youtube.com/watch?v=gFl8vHeGe8Q",
+        "hostPageUrl": "https://www.youtube.com/watch?v=gFl8vHeGe8Q",
+        "encodingFormat": "mp4",
+        "hostPageDisplayUrl": "https://www.youtube.com/watch?v=gFl8vHeGe8Q",
+        "width": 1280,
+        "height": 720,
+        "duration": "PT6M26S",
+        "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.SQ9nRFaFMAhn6Q_1635388895&pid=Api",
+        "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/gFl8vHeGe8Q?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+        "allowHttpsEmbed": true,
+        "viewCount": 3587,
+        "thumbnail": {
+          "width": 160,
+          "height": 120
+        },
+        "allowMobileEmbed": true,
+        "isSuperfresh": false
+      }
+    ],
+    "scenario": "List"
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        }
+      ]
+    },
+    "sidebar": {
+      "items": [
+        {
+          "answerType": "Videos",
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#Videos"
+          }
+        },
+        {
+          "answerType": "RelatedSearches",
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches"
+          }
+        }
+      ]
+    }
+  }
+}
