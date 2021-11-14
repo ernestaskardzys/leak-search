@@ -40,6 +40,8 @@ def search_bing(company_name, site=None):
         if site is not None:
             site_query = build_site_query(site)
             final_query = f"{query}+{site_query}"
+        else:
+            final_query = f"{query}"
 
         results[query] = map_bing_search_results(search_bing_by_query(final_query))
     return results
